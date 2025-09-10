@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://velosbet77.cruelcoding.com/sitemap.xml
